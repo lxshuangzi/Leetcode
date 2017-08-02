@@ -1,6 +1,6 @@
 # Leetcode
 1.General Project convert to Java Project By ".project" file
-  You need to add these properties to your ".project" file as follow:</br>
+  You need to add these properties to your ".project" file as follow:<br>
   <natures>
 	  <nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
