@@ -1,5 +1,5 @@
 # Leetcode
-1.General Project convert to Java Project By ".project" file
+1.General project convert to Java project by ".project" file
   You need to add these properties to your ".project" file as follow:<br>
 ```xml
   <natures>
