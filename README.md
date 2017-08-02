@@ -1,6 +1,7 @@
 # Leetcode
 1.General Project convert to Java Project By ".project" file
   You need to add these properties to your ".project" file as follow:<br>
+  <root>
   <natures>
 	  <nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
@@ -11,3 +12,4 @@
 		  </arguments>
 	  </buildCommand>
 	</buildSpec>
+</root>
