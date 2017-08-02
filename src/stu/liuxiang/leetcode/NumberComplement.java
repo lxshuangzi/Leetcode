@@ -2,8 +2,12 @@ package stu.liuxiang.leetcode;
 
 public class NumberComplement {
 
+	/**
+	 *  给定一个正整数，对该数的二进制表示形式，从最高位的1开始向后按位取反
+	 * @param args
+	 */
 	public static void main(String[] args) {
-		result1(22);
+		result1(22); 
 	}
 	
 	private static void result1(int a){

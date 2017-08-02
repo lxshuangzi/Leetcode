@@ -6,6 +6,10 @@ import java.util.Arrays;
 import java.util.List;
 public class ArrayPartitionI {
 
+	/**
+	 * 计算数组中，两两相减所有商的和的最小值
+	 * @param arg0
+	 */
 	public static void main(String[] arg0){
 		int[] a = new int[]{3,6,4,2,5,1};
 //		int[] a = new int[]{1,4,3,2};

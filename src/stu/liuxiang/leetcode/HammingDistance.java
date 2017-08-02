@@ -1,6 +1,13 @@
 package stu.liuxiang.leetcode;
 
+/**
+ * ¼ÆËãººÃ÷¾àÀë
+ * @author liu2xiang
+ *
+ */
 public class HammingDistance {
+	
+	
 	public static void main(String[] args) {
 		int a = 1;
 		int b = 127;
